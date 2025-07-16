@@ -6,7 +6,7 @@
 
 - 🔭 I Completed By B.tech **In (CSE)**
 
-- ⚡ Fun fact **"Coding my way through life, one bug at a time. 🐞💻"**
+- ⚡ Fun fact **"Turning caffeine into code — and bugs into features. 🐞💻"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
